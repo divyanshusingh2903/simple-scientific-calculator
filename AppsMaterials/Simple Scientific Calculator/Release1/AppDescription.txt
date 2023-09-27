@@ -1,0 +1,18 @@
+Simple Scientific Calculator - BETA version
+
+Just a scientific calculator for everyday use, nothing less nothing more
+
+From the beginning I tried to keep the app simple and kept the main focus on functionality, and less so
+on fancy details. This calculator have the basic four functions, also including more advanced funtions 
+like square and cube, with square roots and cube roots, the calculator also includes trignometric 
+functions sin, cos, tan also including their inverses arcsin, arccos, arctan, and to top it of the 
+calculator can also handle log, natural log, and euler's number.
+
+This is obviuously a beta version of the app and some bugs might have passed through me, 
+to help me fix these, please visit https://divyanshusingh2903.wixsite.com/scientific-calc and post it in
+the forum, this link also be reached from the app by pressing the pop out menu at top of the app, and 
+clicking the 'Report' button, you can visit the site also to provide some feedback and new ideas
+
+enjoy the app
+
+I am a still-learning developer and still in high school, please support me by downloading
